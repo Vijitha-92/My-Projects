@@ -1,0 +1,30 @@
+C:\Vijitha\Vijitha C#\connect-four\CilentGame\bin\Debug\CilentGame.exe.config
+C:\Vijitha\Vijitha C#\connect-four\CilentGame\bin\Debug\CilentGame.exe
+C:\Vijitha\Vijitha C#\connect-four\CilentGame\bin\Debug\CilentGame.pdb
+C:\Vijitha\Vijitha C#\connect-four\CilentGame\obj\Debug\CilentGame.csprojAssemblyReference.cache
+C:\Vijitha\Vijitha C#\connect-four\CilentGame\obj\Debug\MainWindow.g.cs
+C:\Vijitha\Vijitha C#\connect-four\CilentGame\obj\Debug\App.g.cs
+C:\Vijitha\Vijitha C#\connect-four\CilentGame\obj\Debug\CilentGame_MarkupCompile.cache
+C:\Vijitha\Vijitha C#\connect-four\CilentGame\obj\Debug\CilentGame_MarkupCompile.lref
+C:\Vijitha\Vijitha C#\connect-four\CilentGame\obj\Debug\MainWindow.baml
+C:\Vijitha\Vijitha C#\connect-four\CilentGame\obj\Debug\CilentGame.g.resources
+C:\Vijitha\Vijitha C#\connect-four\CilentGame\obj\Debug\CilentGame.Properties.Resources.resources
+C:\Vijitha\Vijitha C#\connect-four\CilentGame\obj\Debug\CilentGame.csproj.GenerateResource.cache
+C:\Vijitha\Vijitha C#\connect-four\CilentGame\obj\Debug\CilentGame.csproj.CoreCompileInputs.cache
+C:\Vijitha\Vijitha C#\connect-four\CilentGame\obj\Debug\CilentGame.exe
+C:\Vijitha\Vijitha C#\connect-four\CilentGame\obj\Debug\CilentGame.pdb
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\CilentGame\bin\Debug\CilentGame.exe.config
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\CilentGame\bin\Debug\CilentGame.exe
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\CilentGame\bin\Debug\CilentGame.pdb
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\CilentGame\obj\Debug\CilentGame.csprojAssemblyReference.cache
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\CilentGame\obj\Debug\MainWindow.g.cs
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\CilentGame\obj\Debug\App.g.cs
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\CilentGame\obj\Debug\CilentGame_MarkupCompile.cache
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\CilentGame\obj\Debug\CilentGame_MarkupCompile.lref
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\CilentGame\obj\Debug\MainWindow.baml
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\CilentGame\obj\Debug\CilentGame.g.resources
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\CilentGame\obj\Debug\CilentGame.Properties.Resources.resources
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\CilentGame\obj\Debug\CilentGame.csproj.GenerateResource.cache
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\CilentGame\obj\Debug\CilentGame.csproj.CoreCompileInputs.cache
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\CilentGame\obj\Debug\CilentGame.exe
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\CilentGame\obj\Debug\CilentGame.pdb

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">This Medical Center</string>
+    <array name="Doctors">
+        <item>Doctor1</item>
+        <item>Doctor2</item>
+        <item>Doctor3</item>
+        <item>Doctor4</item>
+    </array>
+</resources>

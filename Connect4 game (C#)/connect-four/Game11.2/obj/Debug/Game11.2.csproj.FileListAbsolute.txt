@@ -1,0 +1,34 @@
+C:\Vijitha\Vijitha C#\connect-four\Game11.2\bin\Debug\Game11.2.exe.config
+C:\Vijitha\Vijitha C#\connect-four\Game11.2\bin\Debug\Game11.2.exe
+C:\Vijitha\Vijitha C#\connect-four\Game11.2\bin\Debug\Game11.2.pdb
+C:\Vijitha\Vijitha C#\connect-four\Game11.2\bin\Debug\SimpleTCP.dll
+C:\Vijitha\Vijitha C#\connect-four\Game11.2\obj\Debug\Game11.2.csprojAssemblyReference.cache
+C:\Vijitha\Vijitha C#\connect-four\Game11.2\obj\Debug\MainWindow.g.cs
+C:\Vijitha\Vijitha C#\connect-four\Game11.2\obj\Debug\App.g.cs
+C:\Vijitha\Vijitha C#\connect-four\Game11.2\obj\Debug\Game11.2_MarkupCompile.cache
+C:\Vijitha\Vijitha C#\connect-four\Game11.2\obj\Debug\Game11.2_MarkupCompile.lref
+C:\Vijitha\Vijitha C#\connect-four\Game11.2\obj\Debug\MainWindow.baml
+C:\Vijitha\Vijitha C#\connect-four\Game11.2\obj\Debug\Game11.2.g.resources
+C:\Vijitha\Vijitha C#\connect-four\Game11.2\obj\Debug\Game11._2.Properties.Resources.resources
+C:\Vijitha\Vijitha C#\connect-four\Game11.2\obj\Debug\Game11.2.csproj.GenerateResource.cache
+C:\Vijitha\Vijitha C#\connect-four\Game11.2\obj\Debug\Game11.2.csproj.CoreCompileInputs.cache
+C:\Vijitha\Vijitha C#\connect-four\Game11.2\obj\Debug\Game11.2.csproj.CopyComplete
+C:\Vijitha\Vijitha C#\connect-four\Game11.2\obj\Debug\Game11.2.exe
+C:\Vijitha\Vijitha C#\connect-four\Game11.2\obj\Debug\Game11.2.pdb
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\Game11.2\bin\Debug\Game11.2.exe.config
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\Game11.2\bin\Debug\Game11.2.exe
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\Game11.2\bin\Debug\Game11.2.pdb
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\Game11.2\bin\Debug\SimpleTCP.dll
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\Game11.2\obj\Debug\Game11.2.csprojAssemblyReference.cache
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\Game11.2\obj\Debug\MainWindow.g.cs
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\Game11.2\obj\Debug\App.g.cs
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\Game11.2\obj\Debug\Game11.2_MarkupCompile.cache
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\Game11.2\obj\Debug\Game11.2_MarkupCompile.lref
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\Game11.2\obj\Debug\MainWindow.baml
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\Game11.2\obj\Debug\Game11.2.g.resources
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\Game11.2\obj\Debug\Game11._2.Properties.Resources.resources
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\Game11.2\obj\Debug\Game11.2.csproj.GenerateResource.cache
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\Game11.2\obj\Debug\Game11.2.csproj.CoreCompileInputs.cache
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\Game11.2\obj\Debug\Game11.2.csproj.CopyComplete
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\Game11.2\obj\Debug\Game11.2.exe
+C:\Users\Vijitha Merugumala\Desktop\Vijtha\Connect4 game (C#)\connect-four\Game11.2\obj\Debug\Game11.2.pdb

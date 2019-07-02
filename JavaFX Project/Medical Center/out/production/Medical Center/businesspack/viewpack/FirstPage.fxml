@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.Glow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane accessibleRole="NODE" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="businesspack.viewpack.FirstPage">
+    <children>
+        <ImageView fitHeight="342.0" fitWidth="439.0" layoutX="153.0" layoutY="136.0" nodeOrientation="INHERIT" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@../../Image/newimage.jpg" />
+            </image>
+        </ImageView>
+        <HBox layoutY="176.0" prefHeight="62.0" prefWidth="589.0" AnchorPane.bottomAnchor="215.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="176.0">
+            <children>
+
+                <ButtonBar prefHeight="42.0" prefWidth="572.0">
+                    <buttons>
+                        <Button mnemonicParsing="false" onAction="#handlepatient" text="Patients" />
+                        <Button mnemonicParsing="false" onAction="#handledoctors" text="Doctors" />
+                        <Button mnemonicParsing="false" onAction="#handleappointments" text="Appointments" />
+                        <Button mnemonicParsing="false" onAction="#handletodayap" text="Today's appointment" />
+
+                    </buttons>
+                </ButtonBar>
+            </children>
+        </HBox>
+        <Label fx:id="fLabel" alignment="TOP_CENTER" contentDisplay="CENTER" layoutX="250.0" layoutY="73.0" text="Medical  Center" textFill="#136f29">
+            <font>
+                <Font name="System Bold Italic" size="26.0" />
+            </font>
+            <effect>
+                <Glow />
+            </effect>
+        </Label>
+    </children>
+
+</AnchorPane>
