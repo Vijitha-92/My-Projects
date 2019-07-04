@@ -12,9 +12,8 @@ In this scenario you have been contracted to build a graphical game of Connect F
 1. Need to have CRUD (create, update, delete, read operation) on appointment. 
  2. Need to have CRUD (create, update, delete, read operation) on Patient. 
  3. Need to have CRUD (create, update, delete, read operation) on Doctor.
- 4. The System should be able to display appointment on date or doctor.
-    (with connection to database (MySQL))
- 5.Use of data Structure/Collection for sorting /searching data 
+ 4. The System should be able to display appointment on date or doctor (with connection to database (MySQL)).
+ 5. Use of data Structure/Collection for sorting /searching data 
  6. Use of animation and 2D Graphics 
 
 •	Mobile App-Medical Centre using Intellij IDEA, Android:
